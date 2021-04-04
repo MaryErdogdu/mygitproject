@@ -11,7 +11,7 @@ public class mygitclass {
 		System.out.println("version 4");
 		System.out.println("en son version");
 		System.out.println("yeterrr");
-		
+		System.out.println("merve");
 	}
 
 }
