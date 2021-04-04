@@ -13,6 +13,7 @@ public class mygitclass {
 		System.out.println("yeterrr");
 		System.out.println("merve");
 		System.out.println("githup da yaptigim yeni kodum");
+		System.out.println("githup da yaptigim son kodum");
 	}
 
 }
