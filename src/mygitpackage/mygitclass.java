@@ -14,6 +14,7 @@ public class mygitclass {
 		System.out.println("merve");
 		System.out.println("githup da yaptigim yeni kodum");
 		System.out.println("githup da yaptigim son kodum");
+		System.out.println("gurup arkadasimin kodu");
 	}
 
 }
