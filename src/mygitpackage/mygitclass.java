@@ -12,6 +12,7 @@ public class mygitclass {
 		System.out.println("en son version");
 		System.out.println("yeterrr");
 		System.out.println("merve");
+		System.out.println("githup da yaptigim yeni kodum");
 	}
 
 }
